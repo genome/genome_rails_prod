@@ -1,0 +1,5 @@
+genome-rails-prod (0.01) precise; urgency=low
+
+  * Initial packaging 
+
+ -- Adam Coffman <acoffman@genome.wustl.edu>  Thu, 23 Aug 2012 12:34:34 -0500

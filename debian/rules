@@ -1,0 +1,10 @@
+#! /usr/bin/make -f
+
+build:
+	sudo gem install passenger --install-dir=var/lib/gems/1.9.1
+	sudo gem install bundler --install-dir=var/lib/gems/1.9.1
+	sudo GEM_HOME=var/lib/gems/1.9.1/ var/lib/gems/1.9.1/bin/passenger-install-apache2-module --auto
+	dh $@
+
+%:
+	dh $@

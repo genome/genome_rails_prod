@@ -1,3 +1,9 @@
+genome-rails-prod (0.02) precise; urgency=low
+
+  * Update passenger version
+
+ -- Adam Coffman <acoffman@genome.wustl.edu>  Mon, 18 Feb 2013 12:34:34 -0500
+
 genome-rails-prod (0.01) precise; urgency=low
 
   * Initial packaging 

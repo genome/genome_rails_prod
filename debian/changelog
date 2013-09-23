@@ -1,3 +1,9 @@
+genome-rails-prod (0.03) precise; urgency=low
+
+  * Update passenger version, tweak worker pool size
+
+ -- Adam Coffman <acoffman@genome.wustl.edu>  Mon, 23 Sep 2013 12:34:34 -0500
+
 genome-rails-prod (0.02) precise; urgency=low
 
   * Update passenger version
